@@ -53,11 +53,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleb-rupe&show_icons=true&theme=dark&title_color=00aaaa&text_color=00ffff&locale=en&layout=compact" alt="kaleb-rupe" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleb-rupe&show_icons=true&theme=dark&title_color=00aaaa&text_color=00ffff&locale=en" alt="kaleb-rupe" />
-</p>
